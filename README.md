@@ -1,12 +1,22 @@
 # Post em react utilizando https://vitejs.dev/
 
- - Add novo comentário [Finalizado]
-- Like do comentario 	[Finalizado]
-- Add novo Post		    [Pendente]
-- Editar Perfil 	    [Pendente]
+- [x] Add novo comentário 
+- [x] Like do comentario 
+- [ ] Add novo Post		   
+- [ ] Editar Perfil 	   
+
+# Configurar
 
 ```
- npm run dev
+ yarn install
+  // or
+  npm install
+  
+```
+```
+  yarn start
+  // or
+  npm run start
 ```
 
 Post:
