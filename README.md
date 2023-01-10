@@ -5,7 +5,7 @@
 - [ ] Add novo Post		   
 - [ ] Editar Perfil 	   
 
-# Configurar
+# Configuração
 
 ```
  yarn install
